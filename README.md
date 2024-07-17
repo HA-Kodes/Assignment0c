@@ -1,9 +1,9 @@
-# Assignment 0 Instructions
+# Assignment 0c
 This is a template and instructions for creating your own Assignment0.
 
 _Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
 
-## Instructions
+## Bianconi Ha
 
 ### 1. Use the green `Template` button above to create your own github repository. 
 
@@ -62,19 +62,19 @@ If your github handle was `petecarapetyan` and your name was `John Smith` and yo
 
 At this time, we do not review Assignment0, it is for your personal education only, so do not hand it in to the Assignments App like you would with Assignments 1-15
 
-![Complete](/images/complete.jpg)
+![Complete](/images/HelloWorld.jpg)
 
 ## Extra Credit
 
-Learning how to path images (or any files, for that matter) is a frequent stumbling block for new coders. To illustrate this point, please examine this document and see how all of the images are pathed in this markup file, from the images directory. Such as `/images/complete.jpg` above.
+Learning how to path images (or any files, for that matter) is a frequent stumbling block for new coders. To illustrate this point, please examine this document and see how all of the images are pathed in this markup file, from the images directory. Such as `/images/HelloWorld.jpg` above.
 
 For extra credit even before you will need it on Assignment 1, place a photograph of yourself in the images directory and make it show properly, such as below.
 
 Hopefully your smile will look every bit as dorky as mine.
 
-![Image description](/images/wpic.jpg)
+![Image description](/images/HelloWorld.jpg)
 
-File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
+File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/HelloWorld.jpg' as the file path feel free to consult bard or chatgpt or any other AI.
 
 ## Should I repeat Assignment0?
 
